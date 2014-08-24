@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>simutrans-pak64</id>
+		<title>Simutrans pak64</title>
+		<version>0.112.3.2</version>
+		<authors>Simutrans Community</authors>
+		<owners>Adrián Arroyo</owners>
+		<summary>simutrans-pak64</summary>
+		<description>pak64 graphics pakset. Required to run Simutrans. Package issues here: http://github.com/AdrianArroyoCalle/chocolatey-simutrans</description>
+		<projectUrl>https://simutrans.com</projectUrl>
+		<tags>game games tycoon 2d strategy simulation</tags>
+		<copyright />
+		<licenseUrl>http://www.perlfoundation.org/artistic_license_2_0</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>http://www.simutrans.com/images/topbarlogo.png</iconUrl>
+		<dependencies>
+			<!-- <dependency id="7zip.commandline" /> -->
+		</dependencies>
+		<releaseNotes>
+		112.3 - First release on Chocolatey
+		</releaseNotes>
+	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
+</package>
