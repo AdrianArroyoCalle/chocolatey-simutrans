@@ -3,19 +3,20 @@
 	<metadata>
 		<id>simutrans</id>
 		<title>Simutrans</title>
-		<version>112.3</version>
+		<version>0.112.3</version>
 		<authors>Simutrans Community</authors>
-		<owners>Adri·n Arroyo</owners>
+		<owners>Adri√°n Arroyo</owners>
 		<summary>simutrans</summary>
-		<description>Create the transport networks you always dreamed of. Package issues here: http://github.com/AdrianArroyoCalle/chocolatey-simutrans</description>
-		<projectUrl>http://simutrans.com</projectUrl>
-		<tags>simutrans games game tycoon</tags>
+		<description>Package issues here: http://github.com/AdrianArroyoCalle/chocolatey-simutrans</description>
+		<projectUrl>https://simutrans.com</projectUrl>
+		<tags>game games tycoon 2d strategy simulation</tags>
 		<copyright />
-		<licenseUrl>https://github.com/aburch/simutrans/blob/master/simutrans/license.txt</licenseUrl>
+		<licenseUrl>http://www.perlfoundation.org/artistic_license_2_0</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>http://www.simutrans.com/images/topbarlogo.png</iconUrl>
 		<dependencies>
 			<!-- <dependency id="7zip.commandline" /> -->
+			<dependency id="simutrans-pak64"/>
 		</dependencies>
 		<releaseNotes>
 		112.3 - First release on Chocolatey
