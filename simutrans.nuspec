@@ -3,11 +3,11 @@
 	<metadata>
 		<id>simutrans</id>
 		<title>Simutrans</title>
-		<version>0.112.3</version>
+		<version>0.112.3.1</version>
 		<authors>Simutrans Community</authors>
 		<owners>Adrián Arroyo</owners>
 		<summary>simutrans</summary>
-		<description>Package issues here: http://github.com/AdrianArroyoCalle/chocolatey-simutrans</description>
+		<description>Establish a successful transport company. Transport passengers, mail and goods by land, air and water. Interconnect cities, districts, public buildings, industries and tourist attractions. Control and watch your finances and the traffic of your vehicles and goods. Lots of graphics packages to choose from. Play with people from anywhere in the world in online games. Contribute drawing new objects or writing in the code, our community will help you.Package issues here: http://github.com/AdrianArroyoCalle/chocolatey-simutrans</description>
 		<projectUrl>https://simutrans.com</projectUrl>
 		<tags>game games tycoon 2d strategy simulation</tags>
 		<copyright />
