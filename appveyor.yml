@@ -1,8 +1,8 @@
 os: Windows Server 2012 R2
 install:
  - ps: choco pack simutrans.nuspec
- - ps: choco pack simutrans-pak64.nuspec
- - ps: choco pack simutrans-pak128.nuspec
+ - ps: choco pack pak64/simutrans-pak64.nuspec
+ - ps: choco pack pak128/simutrans-pak128.nuspec
 build: off
 test: off
 artifacts:
