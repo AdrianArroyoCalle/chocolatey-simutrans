@@ -3,7 +3,7 @@
 	<metadata>
 		<id>simutrans-pak64</id>
 		<title>Simutrans pak64</title>
-		<version>0.112.3.4</version>
+		<version>0.120.0.1</version>
 		<authors>Simutrans Community</authors>
 		<owners>Adrián Arroyo</owners>
 		<summary>simutrans-pak64</summary>
@@ -18,7 +18,7 @@
 			<!-- <dependency id="simutrans" /> -->
 		</dependencies>
 		<releaseNotes>
-		112.3 - First release on Chocolatey
+		See http://forum.simutrans.com/index.php?board=3.0
 		</releaseNotes>
 	</metadata>
 	<files>
