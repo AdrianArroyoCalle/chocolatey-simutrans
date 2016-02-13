@@ -1,4 +1,4 @@
-$url = "http://sourceforge.net/projects/simutrans/files/simutrans/120-0-1/simuwin-sdl-120-0-1.zip"
+$url = "http://sourceforge.net/projects/simutrans/files/simutrans/120-1-3/simuwin-sdl-120-1-3.zip"
 
 $is64bit = Get-ProcessorBits 64
 if ($is64bit) {
